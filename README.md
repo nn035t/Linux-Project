@@ -37,7 +37,15 @@ securing it from a number of attack vectors, installing and configuring a databa
 	* sudo pip install requests
 	* sudo apt-get install curl
 
-#### 7. Installed git, Apache, Postgresql softwares.
+#### 7. Installed git, Apache, Postgresql , Flask, Xip and other all project dependencies. 
+
+#### 8. Used third party resources like Udacity videos, youtube tutorials, Stackoverflow and various other courses to troubleshoot and complete this.
+
+
+
+
+
+
 
 
 
